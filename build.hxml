@@ -1,5 +1,4 @@
 -cp src
 -D analyzer-optimize
 -main Main
---library cctweaked:2.3.2
 --lua build/mxos.lua
